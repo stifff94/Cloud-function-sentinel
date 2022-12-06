@@ -21,7 +21,7 @@
     "firebase-functions": "^3.6.1",
     "https": "^1.0.0",
     "node-fetch": "^2.6.0",
-    "qs": "^6.9.4"
+    "qs": "^6.9.7"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
